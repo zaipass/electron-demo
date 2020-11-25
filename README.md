@@ -1,23 +1,13 @@
-# my-app
+# electron 客户端
 
-## Project setup
+## 安装依赖包
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+npm i --registry https://registry.npm.taobao.org
 ```
 
-### Compiles and minifies for production
+### 开发
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run eserve
 ```
 
 ### Customize configuration
